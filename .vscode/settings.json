@@ -1,0 +1,18 @@
+{
+	"files.eol": "\n",
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"files.insertFinalNewline": true,
+
+	// eslint
+	"eslint.alwaysShowStatus": true,
+	// "eslint.validate": ["typescript"],
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.organizeImports": false
+	},
+
+	// prettier
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
+}
